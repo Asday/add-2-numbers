@@ -1,7 +1,7 @@
 # add-two-numbers
 A very complex library written in Node.js for adding two numbers
 
-This library uses very advanced and complex alghorithms such as Bloom Filter, neural network back propagation alghorithm and so on.
+This library uses very advanced and complex algorithms such as Bloom Filter, neural network back propagation algorithm and so on.
 
 This method is around 1000x times faster than simple:
 ```javascript
