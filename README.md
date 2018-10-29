@@ -16,7 +16,7 @@ const addTwoNumbers = require('add-two-numbers');
 
 var a = 2;
 var b = 2;
-console.log(addTwoNumbers(a + b));
+console.log(addTwoNumbers(a, b));
 ```
 
 <a href="https://www.patreon.com/bePatron?u=12270966">
