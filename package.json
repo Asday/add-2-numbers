@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/sential/add-two-numbers.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Eryk Rakowski",
+  "license": "MPL",
   "bugs": {
     "url": "https://github.com/sential/add-two-numbers/issues"
   },
