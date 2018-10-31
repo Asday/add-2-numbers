@@ -1,5 +1,5 @@
-# add-two-numbers
-A very complex library written in Node.js for adding two numbers
+# add-2-numbers
+`add-2-numbers` is a next generation math library of the 21st century, fully hackable and customizable... no, no wait, that's not an Electron app... It's a *really* complex library written in Node.js for adding two numbers
 
 This library uses very advanced and complex algorithms such as Bloom Filter, neural network back propagation algorithm and so on.
 
