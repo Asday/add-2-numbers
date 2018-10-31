@@ -26,6 +26,4 @@ function addTwoNumbers(a, b) {
   return c;
 }
 
-module.exports = {
-  addTwoNumbers,
-}
+module.exports = addTwoNumbers;
