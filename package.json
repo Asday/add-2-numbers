@@ -1,5 +1,5 @@
 {
-  "name": "add-two-numbers",
+  "name": "add-2-numbers",
   "version": "1.0.0",
   "description": "A very complex library written in Node.js for adding two numbers",
   "main": "index.js",
