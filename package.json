@@ -1,6 +1,6 @@
 {
   "name": "add-2-numbers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A very complex library written in Node.js for adding two numbers",
   "main": "index.js",
   "scripts": {
