@@ -4,7 +4,7 @@
 //
 // WARNING: This code may potentially trigger seizures for people with photosensitive epilepsy. Viewer discretion is advised.
 
-// Ok, here's the explanation of the algorthm.
+// Ok, here's the explanation of the algorithm.
 
 // Declare the function with two parameters
 // a and b - the two numbers you want to add.
